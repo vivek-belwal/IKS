@@ -1,4 +1,4 @@
-# Indian Knowledge Systems (IKS) | Exploring Ancient Wisdom
+# 🕉️Indian Knowledge Systems (IKS) | Exploring Ancient Wisdom
 
 ![IKS Platform](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Bilingual Support](https://img.shields.io/badge/Language-English%20%7C%20Hindi-blue)
