@@ -59,5 +59,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 This project is created to celebrate and share ancient heritage. All rights reserved.
 
-## Created by
+## 👤Created by
 Vivek Belwal
